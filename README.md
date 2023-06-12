@@ -2,7 +2,7 @@
 <h1 align="center"> Python Project</h1>
 <h3 align="center">Hi 👋, I'm Tai</h3>
 
-<h3 align="left"> 🌱 Come and see what I've created in Python to develop a turtle betting game with the turtle package whilst showing off my skills of tuples, constants, Graphical User Interface (GUI), object attributes, for and while loops and if/else statements.</h3>
+<h4 align="left"> 🌱 Come and see what I've created in Python to develop a turtle betting game with the turtle package whilst showing off my skills of tuples, constants, Graphical User Interface (GUI), object attributes, for and while loops and if/else statements.</h4>
 <p align="left">
 </p>
 
